@@ -1,16 +1,16 @@
 {
-    "name": "Maxx Torrent Mirror",
+    "name": "AI Torrentware",
     "description": "Telegram mirror bot with python",
-    "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
+    "logo": "https://telegra.ph/file/170504c96e2fa1ebbc708.jpg",
     "keywords": [
       "telegram",
       "bot",
       "aria",
       "python"
     ],
-    "repository": "https://github.com/MaxxRider/Maxx-Torrent-Mirror-V2",
-    "website": "https://github.com/MaxxRider/Maxx-Torrent-Mirror-V2/tree/main",
-    "success_url": "https://github.com/MaxxRider/Maxx-Torrent-Mirror-V2/blob/main/README.md",
+    "repository": "https://github.com/TMAdminz/Maxx-Torrent-Mirror-V2",
+    "website": "https://github.com/TMAdminz/Maxx-Torrent-Mirror-V2/tree/main",
+    "success_url": "https://github.com/TMAdminz/Maxx-Torrent-Mirror-V2/blob/main/README.md",
     "stack": "container",
     "env": {
       "ENV": {
